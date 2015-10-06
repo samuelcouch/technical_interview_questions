@@ -38,6 +38,7 @@ Technical Interview Questions
 - Check if String is a palindrome
 - Check if a String is composed of all unique characters
 - Determine if a String is an int or a double
+- Give an input of a custom alphabet, sort a list of strings alphabetically.
 - **HARD**: Find the longest palindrome in a String
 - **HARD**: Print all permutations of a String
 - **HARD**: Given a single-line text String and a maximum width value, write the function 'String justify(String text, int maxWidth)' that formats the input text using full-justification, i.e., extra spaces on each line are equally distributed between the words; the first word on each line is flushed left and the last word on each line is flushed right
